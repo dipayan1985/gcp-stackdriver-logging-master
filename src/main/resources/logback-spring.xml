@@ -1,4 +1,5 @@
 <configuration>
+    <property name="project ID" value="dipayan-trials"/>
     <include resource="org/springframework/boot/logging/logback/defaults.xml"/>
     <include resource="org/springframework/boot/logging/logback/console-appender.xml"/>
     <include resource="org/springframework/cloud/gcp/logging/logback-appender.xml"/>
